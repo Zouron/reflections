@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+-a local repository i created
+-hidden file .git is created
+-all metadata about files are stores here
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-only has files that we chose
+-It contains items that are ready to be comitted
+-Usefull so we can only make chages that we are ready to commit ot the repository
