@@ -18,3 +18,7 @@ How do the diagrams help you visualize the branch structure?
 _Know visually where we are in the bracnh
 -Know how to get bck to where we want to go
 -Easy to keep track of things
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+-we get one branch with commits of coin branch
+-Easier to unserstand with the diagram
