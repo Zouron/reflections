@@ -7,3 +7,14 @@ How is the staging area different from the working directory and the repository?
 -only has files that we chose
 -It contains items that are ready to be comitted
 -Usefull so we can only make chages that we are ready to commit ot the repository
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+-Can know what changes are made
+-Can know what people are working on
+-Can see when what we are working on
+
+How do the diagrams help you visualize the branch structure?
+-Help to understad
+_Know visually where we are in the bracnh
+-Know how to get bck to where we want to go
+-Easy to keep track of things
