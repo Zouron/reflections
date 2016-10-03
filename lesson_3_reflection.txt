@@ -1,0 +1,6 @@
+When would you want to use a remote repository rather than keeping all your work local?
+-When i want to collaborate with other people
+-Sharing my project with other people
+-Let others use my project
+-Ask other people to comment on my coding style and my approach
+-A demonstration so employers can see my ability to code
