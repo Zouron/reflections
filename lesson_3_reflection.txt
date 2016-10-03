@@ -4,3 +4,10 @@ When would you want to use a remote repository rather than keeping all your work
 -Let others use my project
 -Ask other people to comment on my coding style and my approach
 -A demonstration so employers can see my ability to code
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+-Choose what changes to make to remote
+-Choose what other can see
+-Opportunity to tidy up code before pushing
+-Merge and branches we have 
+-Reduce overhead of constantly pulling from remote
