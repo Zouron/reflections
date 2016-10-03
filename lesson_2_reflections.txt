@@ -22,3 +22,8 @@ _Know visually where we are in the bracnh
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 -we get one branch with commits of coin branch
 -Easier to unserstand with the diagram
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-Not clear on the differences between the 2
+-I have fix the confilcts if there are any changes to the same part of the file
+-I now understand what the differences are and how to tell what they are
